@@ -20,5 +20,5 @@ The file `summative_assignment (7).pdf` contains the written report for this pro
 ## Skills Demonstrated
 - Python programming and numerical simulation
 - Differential equations and linear algebra (eigenvalue analysis)
-- Data visualization and interpretation
+- Data visualisation and interpretation
 - Applied mathematics in engineering contexts
