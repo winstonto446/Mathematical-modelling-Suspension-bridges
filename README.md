@@ -2,6 +2,8 @@
 
 This repository contains a Python simulation of a suspension bridge designed to analyse its dynamic behavior under varying loads.
 
+The file `summative_assignment (7).pdf` contains the written report for this project. The other files contain the code snippets for different parts of the simulation.
+
 ## Project Overview
 - Developed a **Python simulation** to study vertical and horizontal oscillations of a suspension bridge.
 - Investigated **normal mode frequencies** and **resonance phenomena** under dynamic loading conditions.
