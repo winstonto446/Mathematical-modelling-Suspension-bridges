@@ -2,7 +2,7 @@
 import numpy as np
 from suspensionbridge import *
 
-N=20
+N = 20
 
 sb = SuspensionBridge_z(N)
 sb.plot_spectrum("spectrum_Z_N{}.pdf".format(N))
