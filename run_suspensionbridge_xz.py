@@ -2,7 +2,7 @@
 import numpy as np
 from suspensionbridge import *
 
-N=20
+N = 20
 
 sb = SuspensionBridge_xz(N)
 #sb.prune_nu() # remove null mode
